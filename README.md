@@ -48,7 +48,7 @@ Experience the application directly on any physical Android device (API 26+) or 
       <td align="center" width="33%">
         <img src="docs/assets/cart.png" alt="Reactive Restocking Cart Engine" width="260" />
         <br />
-        <b>El-Ma5azn Cart Engine</b>
+        <b>Distributers Cart Engine</b>
       </td>
     </tr>
   </table>
