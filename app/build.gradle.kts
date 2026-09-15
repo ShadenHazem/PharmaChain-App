@@ -22,6 +22,9 @@ android {
     multiDexEnabled = true
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
+    buildConfigField("String", "SUPABASE_URL", "\"https://xyzcompany.supabase.co\"")
+    buildConfigField("String", "SUPABASE_ANON_KEY", "\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.dummy_anon_key\"")
   }
 
   signingConfigs {
