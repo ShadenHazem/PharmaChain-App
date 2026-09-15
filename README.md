@@ -18,44 +18,6 @@
 
 ---
 
-## 🚀 Live Demo & Binary Download
-
-Experience the application directly on any physical Android device (API 26+) or emulator.
-
-<div align="center">
-
-| 📦 Production Release APK | 📋 Release Notes | 🛡️ Security Checksum |
-| :--- | :--- | :--- |
-| [**Download Latest APK (`v1.4.0-release.apk`)**](https://github.com/pharmachain-ai/pharmachain-android/releases) | Full changelog & release history | `SHA-256: 8f2c3a9...e41d` |
-
-</div>
-
-### 📱 Interface Preview
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="docs/assets/catalog.png" alt="Drug Catalog & Best Price Badge" width="260" />
-        <br />
-        <b>24,000+ Item Drug Catalog</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="docs/assets/search.png" alt="Real-time FTS Search & Filtering" width="260" />
-        <br />
-        <b>Real-Time Local Search</b>
-      </td>
-      <td align="center" width="33%">
-        <img src="docs/assets/cart.png" alt="Reactive Restocking Cart Engine" width="260" />
-        <br />
-        <b>Distributers Cart Engine</b>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🏛️ Architecture & System Design
 
 PharmaChain is built upon **Clean Architecture** principles combined with the **Unidirectional Data Flow (UDF)** pattern, strictly separating concerns into presentation, domain, and data layers.
