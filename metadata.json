@@ -1,0 +1,8 @@
+{
+  "name": "Remix PharmaChain AI",
+  "description": "B2B pharmaceutical marketplace and AI-driven demand forecasting for Egyptian pharmacies and distributors",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
